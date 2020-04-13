@@ -28,3 +28,9 @@ CREATE TABLE characters (
   species TEXT
   author TEXT
 );
+
+CREATE TABLE character_books (
+  id INTEGER PRIMARY KEY,
+  character id INTEGER
+  book id INTEGER
+);
