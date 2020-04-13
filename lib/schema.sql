@@ -27,7 +27,7 @@ CREATE TABLE characters (
   name TEXT
   motto TEXT
   species TEXT
-  author TEXT
+  author INTEGER
 );
 
 CREATE TABLE character_books (
