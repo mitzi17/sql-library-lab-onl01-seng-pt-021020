@@ -4,4 +4,3 @@ CREATE TABLE series (
   author TEXT
   sub_genre TEXT
 );
-
